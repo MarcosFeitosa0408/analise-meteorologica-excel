@@ -1,0 +1,21 @@
+# 🌦️ Análise Meteorológica com Excel Avançado
+
+Projeto de análise de dados meteorológicos utilizando **Microsoft Excel** com tabelas dinâmicas, campos calculados e gráficos interativos.
+
+## 📊 O que foi feito
+
+- Temperatura mínima, máxima e média por mês e ano  
+- Tempo total de chuva convertido para horas  
+- Média da umidade relativa do ar  
+- Segmentações interativas por mês e ano  
+- Gráficos de linha, colunas e combinação
+
+## 🛠️ Ferramentas utilizadas
+
+- Excel
+- Tabelas dinâmicas
+- Gráficos dinâmicos
+- Segmentadores
+
+## 📂 Estrutura do Projeto
+
