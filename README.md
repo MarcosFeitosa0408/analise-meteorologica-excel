@@ -10,18 +10,18 @@ Projeto de análise de dados meteorológicos utilizando **Microsoft Excel** com 
 - Gráficos de linha, colunas e combinados  
 - Segmentações interativas por mês e ano
 
+
 ## 🖼️ Imagens do Projeto
 
 ### 📌 Base de Dados
-### 📌 Base de Dados
-![Base](imagens/base.png)
-
+![Base](./Captura%20de%20tela%202025-07-22%20122004.png)
 
 ### 📌 Tabelas Dinâmicas
-![Tabelas Dinâmicas](imagens/tabela-dinamica.png)
+![Tabelas Dinâmicas](./Captura%20de%20tela%202025-07-22%20122037.png)
 
 ### 📌 Gráficos Interativos
-![Gráficos](imagens/graficos.png)
+![Gráficos](./Captura%20de%20tela%202025-07-22%20122021.png)
+
 
 ## 🛠️ Ferramentas Utilizadas
 
